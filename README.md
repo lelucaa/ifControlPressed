@@ -1,0 +1,9 @@
+# ifControlPressed
+A little help for new FiveM Developers
+These Keys are used for following natives:
+IsControlPressed
+IsDisabledControlPressed
+IsControlJustReleased
+IsControlReleased
+IsDisabledControlJustReleased
+IsDisabledControlReleased
